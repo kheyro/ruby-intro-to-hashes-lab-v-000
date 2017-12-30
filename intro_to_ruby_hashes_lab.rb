@@ -17,8 +17,7 @@ end
 
 def monopoly_with_third_tier
 	{ railroads:
-		{ names: {}
-		}
+		{ names: {}}
 	}
 end
 
