@@ -22,7 +22,7 @@ end
 
 def monopoly_with_third_tier
 	{ railroads: {
-			names: { 1, 2, 3},
+			names: [ 1, 2, 3 ],
 		}
 	 }
 end
